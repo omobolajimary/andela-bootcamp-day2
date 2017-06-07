@@ -4,3 +4,7 @@ This contains the outcomes expected for day 2 of the Boot camp home study:
 If the reverse of the string is the same as the original string, as in the case of palindromes, return `true` instead.
 2.A `Car` class that can be used to instantiate vehicles.
 It takes in arguments that depict the *type*, *model*, and *name* of the vehicle, provided they are set.
+
+
+
+
