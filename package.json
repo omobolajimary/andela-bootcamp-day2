@@ -1,0 +1,28 @@
+{
+  "name": "andela-bootcamp-day2",
+  "version": "1.0.0",
+  "description": "JavaScript Project on ReverseString",
+  "main": "app/revString.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jasmine test/revStrinTest.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/omobolajimary/andela-bootcamp-day2.git"
+  },
+  "author": "Omobolaji Adediran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/omobolajimary/andela-bootcamp-day2/issues"
+  },
+  "homepage": "https://github.com/omobolajimary/andela-bootcamp-day2#readme",
+  "devDependencies": {
+    "jasmine": "^2.6.0"
+  },
+  "dependencies": {
+    "jasmine": "^2.6.0"
+  }
+}
