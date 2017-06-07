@@ -23,6 +23,8 @@
     "jasmine": "^2.6.0"
   },
   "dependencies": {
-    "jasmine": "^2.6.0"
+    "dotenv": "^4.0.0",
+    "jasmine": "^2.6.0",
+    "request": "^2.81.0"
   }
 }
